@@ -34,19 +34,21 @@ Insight:
 
 Sales fluctuated over the six-month period (January to June).
 May and June saw the highest revenue, indicating strong sales performance towards the end of the period.
+
 🔍 Possible Reason:
 
 Increased marketing efforts, seasonal demand, or store promotions in May and June.
-### 2️⃣ 🏪 Best & Worst Performing Stores
+### 2️⃣ 🏪 Stores Performance
 Insight:
 
 The three stores generated similar revenue:
 Store A: $236,511.17
 Store B: $232,243.91
 Store C: $230,057.25
+
 🔍 Possible Reason:
 
-Evenly distributed customer traffic across stores.
+Balanced customer distribution & inventory management.
 Similar inventory and pricing strategy across locations.
 
 ### 3️⃣ 📦 Best-Selling & Least-Selling Products
@@ -54,25 +56,84 @@ Insight:
 
 Top 3 best-selling products had quantities of 26,250, 25,973, and 25,943 units sold.
 Least 3 selling products had quantities of only 134, 159, and 183 units.
+Top 3 best-selling products sold over 25,000 units each.**  
+**Least-selling products sold fewer than 200 units.**   
+
 🔍 Possible Reason:
 
 High-performing products are likely popular items with strong demand.
 Low-performing products might suffer from poor marketing, high prices, or lack of availability.
+
 ### 4️⃣ 💰 Price Distribution Across Products
 Insight:
 
 Product prices range from $0.80 to $45.00.
 Highest sales volume is for products priced at $3.00 and $2.50.
 Lowest sales volume is for products priced at $5.63 and $23.00.
+
 🔍 Possible Reason:
 
 Customers prefer affordable and mid-range products, while expensive products have lower demand.
+
 ### 5️⃣ ⏰ Peak Sales Hours
 Insight:
 
 Sales peak between 8 AM and 10 AM, indicating the morning rush is the busiest period.
 Sales drop significantly after 7 PM, with the lowest sales recorded at 6 AM and 8 PM.
+
 🔍 Possible Reason:
 
 Morning hours are key for coffee sales as customers grab drinks before work.
 Evening hours see lower sales as coffee demand decreases later in the day.
+
+## 📊 Power BI Dashboard  
+After analyzing the data in **SQL**, insights were visualized using **Power BI**.  
+📸 **[View the Dashboard Screenshot](dashboard_screenshot.png)**  
+
+### 🔹 Dashboard Features  
+✅ **Monthly Revenue Trend** – Line chart showing revenue fluctuations.  
+✅ **Store Performance Comparison** – Bar chart ranking store revenues.  
+✅ **Best & Worst Selling Products** – Bar chart for sales distribution.  
+✅ **Price Distribution** – Histogram for price frequency analysis.  
+✅ **Peak Sales Hours** – Heatmap showing hourly sales trends.  
+✅ **Interactive Filters (Slicers)** – Allow dynamic data exploration.  
+
+---
+
+## 📂 Project Files  
+📁 **[SQL_Scripts.sql](SQL_Scripts.sql)** → Contains all SQL queries.  
+📁 **[Power BI File](sales_performance.pbix)** → Power BI dashboard file.  
+📁 **[Dashboard Screenshot](dashboard_screenshot.png)** → Visual preview of the report.  
+
+---
+
+## 🚀 How to Use This Project  
+
+### 1️⃣ Clone the Repository  
+
+git clone https://github.com/franklinanalytics/sales-performance-analysis.git
+
+### 2️⃣
+Run the SQL_Scripts.sql in PostgreSQL.
+
+### 3️⃣ Open Power BI Dashboard
+Load sales_performance.pbix in Power BI.
+
+
+## 📢 Key Takeaways  
+
+- 📈 **Sales peak in May & June**, suggesting **high seasonal demand**.  
+- 🏪 **Store revenues are closely competitive**, requiring further strategy to **boost the lowest-performing store**.  
+- 💰 **Products priced at $3.00 and $2.50 sell the most**, indicating **optimal price points**.  
+- 🕒 **Peak sales hours (8 AM - 10 AM)** suggest **morning promotions** could increase revenue.  
+
+🔗 Connect With Me
+👤 Durueke Franklin Obinna
+📩 Email: duruekefranklin@gmail.com
+🌐 LinkedIn: linkedin.com/in/durueke-franklin
+📂 GitHub: franklinanalytics
+
+## ✅ Next Steps  
+- 🔹 Apply advanced **DAX measures** in Power BI.  
+- 🔹 Perform **predictive analysis** using Python.  
+- 🔹 Expand **data cleaning techniques** in SQL.  
