@@ -118,6 +118,7 @@ After analyzing the data in **SQL**, insights were visualized using **Power BI**
 **📌 4. Align pricing strategy with customer preferences to boost sales.**
 
 **📌 5. Extend early morning promotions (6 AM - 8 AM) to capture more sales.**
+
 ---
 
 ## 📂 Project Files  
