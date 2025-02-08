@@ -121,9 +121,9 @@ After analyzing the data in **SQL**, insights were visualized using **Power BI**
 ---
 
 ## 📂 Project Files  
-📁 **[SQL_Scripts.sql](SQL_Scripts.sql)** → Contains all SQL queries.  
-📁 **[Power BI File](sales_performance.pbix)** → Power BI dashboard file.  
-📁 **[Dashboard Screenshot](dashboard_screenshot.png)** → Visual preview of the report.  
+📁 **[SQL_Scripts.sql](coffeesales.sql)** → Contains all SQL queries.  
+📁 **[Power BI File](coffeesales.pbix)** → Power BI dashboard file.  
+📁 **[Dashboard Screenshot](coffeesalesdashboard.png)** → Visual preview of the report.  
 
 ---
 
