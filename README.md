@@ -43,6 +43,7 @@ Increased marketing efforts, seasonal demand, or store promotions in May and Jun
 **Insight:**
 
 The three stores generated similar revenue:
+
 **Store A:** $236,511.17
 
 **Store B:** $232,243.91
@@ -96,7 +97,7 @@ Evening hours see lower sales as coffee demand decreases later in the day.
 
 ## 📊 Power BI Dashboard  
 After analyzing the data in **SQL**, insights were visualized using **Power BI**.  
-📸 **[View the Dashboard Screenshot](dashboard_screenshot.png)**  
+📸 **[View the Dashboard Screenshot](coffeesalesdashboard.png)**  
 
 ### 🔹 Dashboard Features  
 ✅ **Monthly Revenue Trend** – Line chart showing revenue fluctuations.  
@@ -140,9 +141,13 @@ Load sales_performance.pbix in Power BI.
 
 
 🔗 Connect With Me
+
 👤 Durueke Franklin Obinna
+
 📩 Email: duruekefranklin@gmail.com
+
 🌐 LinkedIn: linkedin.com/in/durueke-franklin
+
 📂 GitHub: franklinanalytics
 
 ## ✅ Next Steps  
