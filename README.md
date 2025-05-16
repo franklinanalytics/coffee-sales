@@ -1,6 +1,7 @@
 # ☕ Coffee Sales Performance Analysis  
 📊 **SQL & Power BI Project**  
 
+![](https://github.com/franklinanalytics/coffee-sales/blob/main/coffee1.jpg)
 ## 📌 Project Overview  
 This project analyzes **coffee sales data** from multiple stores over a **6-month period (January - June)**. The goal is to **extract meaningful business insights** using:  
 - **SQL** for data extraction, cleaning, and transformation  
